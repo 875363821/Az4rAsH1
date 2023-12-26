@@ -1,2 +1,2 @@
 ####	README    ####
-THIS IS A README FILE.
+どうも、アザラシ＝さんです。
